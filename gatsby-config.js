@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/sport-records',
   siteMetadata: {
     siteTitle: 'Sport Records',
-    siteUrl: 'https://fxbin.github.io',
+    siteUrl: 'https://fxbin.github.io/sport-records',
     logo: 'https://avatars.githubusercontent.com/u/29231515',
     description: 'Personal site and blog',
     navLinks: [
